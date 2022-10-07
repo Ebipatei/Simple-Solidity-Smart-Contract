@@ -18,3 +18,5 @@ finishTime : The amount of time the project will run for whilst trying to reach 
 The specification of the fundraising contract is as follows:
 If the total amount of donations is greater or equal to the target amount, then all the funds in the contract will be transferred to the owner of the project.
 If the total amount of donations is less than the donation target at the end of the contract, then people inside the donators list will receive a full refund.
+
+Find the smart contract in the Funraising.sol
