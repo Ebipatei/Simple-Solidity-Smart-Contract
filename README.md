@@ -1,5 +1,5 @@
 # Simple-Solidity-Smart-Contract
-This repo follows a tutorial, so it is beginner friendly.
+Crating a simple smart contract using solidty. This repo follows a tutorial, so it is beginner friendly.
 
 I'm a newbiw in the web3 space and this is my first smart contract. Feel free to call my attention to any errors you might find and I'll happily update as needed. Having said that, let's jump right it:
 
