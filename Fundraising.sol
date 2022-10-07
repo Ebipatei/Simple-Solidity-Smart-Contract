@@ -1,5 +1,6 @@
 pragma solidity ^0.8.0;
 
+//the contract class
 contract Fundraising {
     uint256 public targetAmount;
     address public owner;
