@@ -1,9 +1,9 @@
 # Simple-Solidity-Smart-Contract
 Crating a simple smart contract using solidty. This repo follows a tutorial (https://docs.allthatnode.com/tutorials/building-a-fundraising-contract-on-ethereum), so it is beginner friendly.
 
-I'm a newbiw in the web3 space and this is my first smart contract. Feel free to call my attention to any errors you might find and I'll happily update as needed. Having said that, let's jump right it:
+I'm a newbiw in the web3 space and this is my first smart contract. Feel free to call my attention to any errors you might find and I'll happily update as needed. That said, let's jump right it:
 
-The project is a fundraising smart contract that the following properties:
+The project is a fundraising smart contract with the following properties:
 
 owner : The owner of the project is trying to fundraise.
 
